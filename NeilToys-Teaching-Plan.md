@@ -182,7 +182,13 @@ Posting helps in:
 |------------|------------|--------------|------------|
 | 2023-04-20 | PackPro     | Packaging    | 8,000      |
 | 2023-06-20 | ColorCo     | Paint        | 3,000      |
-| 2023-08-15 | PolyWorld   | Plastic      | 6,000      |
+| Date       | Invoice No. | Name of the Supplier (Account to be credited) | L.F. | Amount (₹) |
+|------------|-------------|------------------------------------------------|------|------------|
+| 2017-04-04 | 544         | Handa Co.                                      |      | 2,450      |
+| 2017-04-06 | 125         | Burari Ltd.                                    |      | 6,400      |
+| 2017-04-19 | 205         | Kochhar Co.                                    |      | 29,280     |
+| 2017-04-21 | 157         | Burari Ltd.                                    |      | 2,280      |
+| 2017-04-30 |             |                                                |      | 40,410     |
 le| ...existing code...
 
 #### Purchases Return Book
@@ -192,6 +198,11 @@ le| ...existing code...
 | 2023-06-25 | ColorCo     | Paint        | 500        |
 | 2023-08-20 | PolyWorld   | Plastic      | 1,000      |
 | ...existing code...
+| Date       | Invoice No. | Name of the Supplier (Account to be credited) | L.F. | Amount (₹) |
+|------------|-------------|------------------------------------------------|------|------------|
+| 2017-04-10 | 601         | Handa Co.                                      |      | 500        |
+| 2017-04-22 | 602         | Kochhar Co.                                    |      | 1,000      |
+| 2017-04-30 |             |                                                |      | 1,500      |
 
 #### Sales Book
 | Date       | Customer    | Item         | Amount (₹) |
@@ -200,6 +211,11 @@ le| ...existing code...
 | 2023-07-01 | KidsStore   | Toy Cars     | 12,000     |
 | 2023-09-05 | PlayZone    | Puzzles      | 11,000     |
 | ...existing code...
+| Date       | Invoice No. | Name of the Customer (Account to be debited)  | L.F. | Amount (₹) |
+|------------|-------------|-----------------------------------------------|------|------------|
+| 2017-04-05 | 701         | KidsStore                                     |      | 12,000     |
+| 2017-04-15 | 702         | PlayZone                                      |      | 11,000     |
+| 2017-04-30 |             |                                               |      | 23,000     |
 
 #### Sales Return Book
 | Date       | Customer    | Item         | Amount (₹) |
@@ -208,6 +224,11 @@ le| ...existing code...
 | 2023-07-05 | KidsStore   | Toy Cars     | 1,500      |
 | 2023-09-10 | PlayZone    | Puzzles      | 1,200      |
 | ...existing code...
+| Date       | Invoice No. | Name of the Customer (Account to be debited)  | L.F. | Amount (₹) |
+|------------|-------------|-----------------------------------------------|------|------------|
+| 2017-04-07 | 801         | KidsStore                                     |      | 1,500      |
+| 2017-04-20 | 802         | PlayZone                                      |      | 1,200      |
+| 2017-04-30 |             |                                               |      | 2,700      |
 
 #### Journal Proper
 | Date       | Particulars                        | Debit (₹) | Credit (₹) |
