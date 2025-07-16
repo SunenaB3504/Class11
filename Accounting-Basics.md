@@ -291,29 +291,57 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 [Journal Entry]
       |
       v
-[Ledger Account 1]   [Ledger Account 2]
-      |                    |
-      v                    v
-[Balance Calculation]   [Balance Calculation]
+[Cash Account]   [Capital Account]   [Bank Account]   [Furniture Account]   [Purchases Account]   [Sales Account]
+      |                |                   |                 |                    |                   |
+      v                v                   v                 v                    v                   v
+[Balance Calculation for each Ledger Account]
 ```
 
-**Example Journal Entry:**
+**Example Journal Entries:**
 | Date       | Particulars         | Debit (Dr.) | Credit (Cr.) |
 |------------|---------------------|-------------|--------------|
-| 2025-07-01 | Cash Account        | ₹5,000      |              |
-|            | Sales Account       |             | ₹5,000       |
+| 2025-07-01 | Cash Account        | ₹10,000     |              |
+|            | Capital Account     |             | ₹10,000      |
+| 2025-07-02 | Furniture Account   | ₹5,000      |              |
+|            | Cash Account        |             | ₹5,000       |
+| 2025-07-03 | Purchases Account   | ₹3,000      |              |
+|            | Bank Account        |             | ₹3,000       |
+| 2025-07-04 | Sales Account       |             | ₹4,000       |
+|            | Cash Account        | ₹4,000      |              |
 
 **Posting to Ledger Accounts:**
 
-**Cash Account (Ledger)**
-| Date       | Particulars | Debit (Dr.) | Credit (Cr.) | Balance |
-|------------|-------------|-------------|--------------|---------|
-| 2025-07-01 | To Sales    | ₹5,000      |              | ₹5,000  |
+**Cash Account**
+| Date       | Particulars      | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|------------------|-------------|--------------|---------|
+| 2025-07-01 | To Capital       | ₹10,000     |              | ₹10,000 |
+| 2025-07-02 | By Furniture     |             | ₹5,000       | ₹5,000  |
+| 2025-07-04 | To Sales         | ₹4,000      |              | ₹9,000  |
 
-**Sales Account (Ledger)**
-| Date       | Particulars | Debit (Dr.) | Credit (Cr.) | Balance |
-|------------|-------------|-------------|--------------|---------|
-| 2025-07-01 | By Cash     |             | ₹5,000       | ₹5,000  |
+**Capital Account**
+| Date       | Particulars      | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|------------------|-------------|--------------|---------|
+| 2025-07-01 | By Cash          |             | ₹10,000      | ₹10,000 |
+
+**Bank Account**
+| Date       | Particulars      | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|------------------|-------------|--------------|---------|
+| 2025-07-03 | By Purchases     |             | ₹3,000       | -₹3,000 |
+
+**Furniture Account**
+| Date       | Particulars      | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|------------------|-------------|--------------|---------|
+| 2025-07-02 | To Cash          | ₹5,000      |              | ₹5,000  |
+
+**Purchases Account**
+| Date       | Particulars      | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|------------------|-------------|--------------|---------|
+| 2025-07-03 | To Bank          | ₹3,000      |              | ₹3,000  |
+
+**Sales Account**
+| Date       | Particulars      | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|------------------|-------------|--------------|---------|
+| 2025-07-04 | By Cash          |             | ₹4,000       | ₹4,000  |
 
 ---
 
@@ -331,38 +359,19 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 
 ---
 
-## 11. Practice: Posting Example
-- **Cash Account, Capital Account, Bank Account, Furniture Account, Purchases Account, Sales Account, etc.**
-- **Show posting from journal to ledger with tables.**
-
----
-
-## 12. GST Accounting Entries
+## 11. GST Accounting Entries
 - **CGST, SGST, IGST:** Examples of entries for purchases, sales, expenses.
 - **Set-off and payment of GST.**
 
 ---
 
-## 13. Practice Problems & Case Studies
+## 12. Practice Problems & Case Studies
 - **Case Study:** Student starts a snack shop, records all transactions.
 - **Practice:** Journalise and post transactions, show effects on accounting equation.
 
 ---
 
-## 14. Interactive Exercises
-- **Debit or Credit:** Identify for each transaction.
-- **Which Book:** Choose correct book of original entry.
-- **Fill T-Account:** Complete missing amounts and sides.
-
----
-
-## 15. Answers & Explanations
-- **Check your answers with explanations.**
-- **Review rules and try again if unsure.**
-
----
-
-## 16. Summary Table: Effects of Transactions
+## 13. Summary Table: Effects of Transactions
 | Transaction                        | Effect on Assets | Effect on Liabilities | Effect on Capital |
 |-------------------------------------|------------------|----------------------|-------------------|
 | Owner invests cash                  | +Cash            |                      | +Capital          |
@@ -373,27 +382,7 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 
 ---
 
-## 17. Key Terms Introduced
-- Source Documents
-- Accounting Equation
-- Books of Original Entry
-- Journalising and Posting
-- Double Entry Book Keeping
-- Ledger
-- Debit and Credit
-- Account
 
----
-
-## 18. Questions for Practice
-- Short and long answer questions, numerical problems, journalising, posting, analysis of transactions, case studies.
-
----
-
-## 19. Activity: Be the Accountant!
-- Make up your own business, record transactions, use tables, journal and ledger entries, and check your work.
-
----
 
 ## Interactive Exercises (with Explanations)
 
