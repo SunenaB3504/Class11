@@ -9,62 +9,51 @@ Neil Toys sources raw materials such as plastic, paint, and packaging, and uses 
 
 The company is used as a practical example to teach students the basics of financial book entry, including recording transactions, maintaining various accounting books, and balancing accounts. Through Neil Toys, learners can explore all aspects of business accounting in a hands-on, interactive way.
 
-# 3. Types of Transactions
-- Raw material purchase (cash/bank/credit)
-- Return of raw materials (to supplier)
-- Sales (cash/bank/credit)
-- Sales return (from customer)
-- Petty cash purchases (stationery, refreshments, etc.)
-- Cash purchases
-- Purchases through bank
-- Cash sales
-- Sales through bank
-- Payment of rent, salary, insurance, electricity, etc.
-- Receipt of loan, withdrawal by partners
-- Any other relevant transactions from the chapter
+# 2. Types of Transactions
 
-# 4. Books to Create
-- **Cash Book:** Single, double, and petty cash book
-- **Purchases Book**
-- **Purchases Return Book**
-- **Sales Book**
-- **Sales Return Book**
-- **Journal Proper**
+### What is a Transaction?
+A transaction is any business activity or event that has a financial impact on the company and is recorded in the books of accounts. Transactions can involve the exchange of money, goods, or services, and may be internal (within the business) or external (with other parties).
 
 
-## Sample Transactions for FY 2023-24
+**Steps in Posting:**
+- Identify the account affected by each transaction in the book of original entry.
+- Enter the amount on the correct side (debit or credit) of the relevant ledger account.
+- Reference the source book and date for each entry in the ledger.
+- Repeat for all transactions, ensuring every item is posted to its respective account.
 
-| Serial No. | Date       | Particulars                                      | Amount (₹) | Account Type        | Dr. Entry           | Cr. Entry           | Book to Record           |
-|------------|------------|--------------------------------------------------|------------|---------------------|---------------------|---------------------|--------------------------|
-| 1          | 2023-04-01 | Capital introduced by Neil                       | 1,00,000   | Equity              | Cash                | Capital             | Journal Proper           |
-| 2          | 2023-04-05 | Capital introduced by Hamsa                      | 1,00,000   | Equity              | Cash                | Capital             | Journal Proper           |
-| 3          | 2023-04-10 | Purchased plastic (raw material) for cash        | 20,000     | Asset               | Raw Material        | Cash                | Cash Book                |
-| 4          | 2023-04-15 | Purchased paint by cheque                        | 5,000      | Asset               | Raw Material        | Bank                | Cash Book (Bank Column)  |
-| 5          | 2023-04-20 | Purchased packaging on credit from PackPro       | 8,000      | Asset               | Raw Material        | PackPro             | Purchases Book           |
-| 6          | 2023-04-25 | Returned packaging to PackPro                    | 1,000      | Asset               | PackPro             | Raw Material        | Purchases Return Book    |
-| 7          | 2023-05-01 | Sold toy cars for cash                           | 15,000     | Income              | Cash                | Sales               | Cash Book                |
-| 8          | 2023-05-05 | Sold dolls on credit to ToyMart                  | 10,000     | Income              | ToyMart             | Sales               | Sales Book               |
-| 9          | 2023-05-10 | ToyMart returned some dolls                      | 2,000      | Income              | Sales Return        | ToyMart             | Sales Return Book        |
-| 10         | 2023-05-15 | Paid rent by cheque                              | 4,000      | Expense             | Rent                | Bank                | Cash Book (Bank Column)  |
-| 11         | 2023-05-20 | Paid salary in cash                              | 6,000      | Expense             | Salary              | Cash                | Cash Book                |
-| 12         | 2023-05-25 | Purchased stationery (petty cash)                | 500        | Expense             | Stationery          | Cash                | Petty Cash Book          |
-| 13         | 2023-06-01 | Paid courier charges (petty cash)                | 300        | Expense             | Courier Charges     | Cash                | Petty Cash Book          |
-| 14         | 2023-06-05 | Sold puzzles through bank                        | 8,000      | Income              | Bank                | Sales               | Cash Book (Bank Column)  |
-| 15         | 2023-06-10 | Purchased machinery by cheque                    | 25,000     | Asset               | Machinery           | Bank                | Cash Book (Bank Column)  |
-| 16         | 2023-06-15 | Paid electricity bill by cheque                  | 2,500      | Expense             | Electricity         | Bank                | Cash Book (Bank Column)  |
-| 17         | 2023-06-20 | Purchased paint on credit from ColorCo           | 3,000      | Asset               | Raw Material        | ColorCo             | Purchases Book           |
-| 18         | 2023-06-25 | Returned paint to ColorCo                        | 500        | Asset               | ColorCo             | Raw Material        | Purchases Return Book    |
-| 19         | 2023-07-01 | Sold toy cars on credit to KidsStore             | 12,000     | Income              | KidsStore           | Sales               | Sales Book               |
-| 20         | 2023-07-05 | KidsStore returned some toy cars                 | 1,500      | Income              | Sales Return        | KidsStore           | Sales Return Book        |
-| 21         | 2023-07-10 | Paid insurance premium by cheque                 | 3,000      | Expense             | Insurance           | Bank                | Cash Book (Bank Column)  |
-| 22         | 2023-07-15 | Paid refreshments (petty cash)                   | 200        | Expense             | Refreshments        | Cash                | Petty Cash Book          |
-| 23         | 2023-07-20 | Sold puzzles for cash                            | 7,000      | Income              | Cash                | Sales               | Cash Book                |
-| 24         | 2023-07-25 | Purchased packaging for cash                     | 2,000      | Asset               | Raw Material        | Cash                | Cash Book                |
-| 25         | 2023-08-01 | Paid cartage (petty cash)                        | 150        | Expense             | Cartage             | Cash                | Petty Cash Book          |
-| 26         | 2023-08-05 | Sold dolls through bank                          | 9,000      | Income              | Bank                | Sales               | Cash Book (Bank Column)  |
-| 27         | 2023-08-10 | Paid telephone bill by cheque                    | 1,200      | Expense             | Telephone           | Bank                | Cash Book (Bank Column)  |
-| 28         | 2023-08-15 | Purchased plastic on credit from PolyWorld        | 6,000      | Asset               | Raw Material        | PolyWorld           | Purchases Book           |
-| 29         | 2023-08-20 | Returned plastic to PolyWorld                    | 1,000      | Asset               | PolyWorld           | Raw Material        | Purchases Return Book    |
+Posting helps in:
+- Classifying transactions by account type (e.g., cash, sales, rent, etc.).
+- Preparing the trial balance and final accounts.
+- Detecting errors and omissions in recording.
+
+**Importance of Recording Transactions:**
+- Provides a complete and accurate record of all business activities.
+- Helps in tracking cash flow, outstanding dues, and financial position.
+- Forms the basis for preparing financial statements and reports.
+- Ensures compliance with legal and regulatory requirements.
+
+
+
+These tables follow the standard textbook format for each book and show how representative entries are posted. Column headers, order, and formatting match typical accounting book layouts for clarity and accuracy.
+[| S.No | Date       | Particulars                                    | Amount (₹) | Account Type | Debit Account      | Credit Account     | Book to Record            |
+|------|------------|-----------------------------------------------|------------|--------------|--------------------|--------------------|---------------------------|
+| 14   | 2023-06-05 | Sold puzzles through bank                      | 8,000      | Income       | Bank               | Sales              | Cash Book (Bank Column)   |
+| 15   | 2023-06-10 | Purchased machinery by cheque                  | 25,000     | Asset        | Machinery          | Bank               | Cash Book (Bank Column)   |
+| 16   | 2023-06-15 | Paid electricity bill by cheque                | 2,500      | Expense      | Electricity        | Bank               | Cash Book (Bank Column)   |
+| 17   | 2023-06-20 | Purchased paint on credit from ColorCo         | 3,000      | Asset        | Raw Material       | ColorCo            | Purchases Book            |
+| 18   | 2023-06-25 | Returned paint to ColorCo                      | 500        | Asset        | ColorCo            | Raw Material        | Purchases Return Book     |
+| 19   | 2023-07-01 | Sold toy cars on credit to KidsStore           | 12,000     | Income       | KidsStore          | Sales              | Sales Book                |
+| 20   | 2023-07-05 | KidsStore returned some toy cars               | 1,500      | Income       | Sales Return       | KidsStore           | Sales Return Book         |
+| 21   | 2023-07-10 | Paid insurance premium by cheque               | 3,000      | Expense      | Insurance          | Bank               | Cash Book (Bank Column)   |
+| 22   | 2023-07-15 | Paid refreshments (petty cash)                 | 200        | Expense      | Refreshments       | Cash               | Petty Cash Book           |
+| 23   | 2023-07-20 | Sold puzzles for cash                          | 7,000      | Income       | Cash               | Sales              | Cash Book                 |
+| 24   | 2023-07-25 | Purchased packaging for cash                   | 2,000      | Asset        | Raw Material       | Cash               | Cash Book                 |
+| 25   | 2023-08-01 | Paid cartage (petty cash)                      | 150        | Expense      | Cartage            | Cash               | Petty Cash Book           |
+| 26   | 2023-08-05 | Sold dolls through bank                        | 9,000      | Income       | Bank               | Sales              | Cash Book (Bank Column)   |
+| 27   | 2023-08-10 | Paid telephone bill by cheque                  | 1,200      | Expense      | Telephone          | Bank               | Cash Book (Bank Column)   |
+| 28   | 2023-08-15 | Purchased plastic on credit from PolyWorld      | 6,000      | Asset        | Raw Material       | PolyWorld           | Purchases Book            |
+| 29   | 2023-08-20 | Returned plastic to PolyWorld                  | 1,000      | Asset        | PolyWorld          | Raw Material        | Purchases Return Book     |
+| 30   | 2023-08-25 | Sold toy cars for cash                         | 13,000     | Income       | Cash               | Sales              | Cash Book                 |
 | 30         | 2023-08-25 | Sold toy cars for cash                           | 13,000     | Income              | Cash                | Sales               | Cash Book                |
 | 31         | 2023-09-01 | Paid stationery (petty cash)                     | 400        | Expense             | Stationery          | Cash                | Petty Cash Book          |
 | 32         | 2023-09-05 | Sold puzzles on credit to PlayZone               | 11,000     | Income              | PlayZone            | Sales               | Sales Book               |
@@ -98,8 +87,119 @@ The company is used as a practical example to teach students the basics of finan
 | 60         | 2024-03-25 | Interest received from bank                      | 1,200      | Income              | Bank                | Interest Received   | Cash Book (Bank Column)  |
 
 ---
+## 5. Types of books
 
-## 5. Balancing
+- **Cash Book:** Single, double, and petty cash book
+- **Purchases Book**
+- **Purchases Return Book**
+- **Sales Book**
+- **Sales Return Book**
+- **Journal Proper**
+
+## 5. Posting
+
+
+Posting is the process of transferring the information from the books of original entry (such as the cash book, purchases book, sales book, etc.) to the respective ledger accounts. This step ensures that all transactions are classified under the correct account heads for summarization and analysis.
+
+**Steps in Posting:**
+- Identify the account affected by each transaction in the book of original entry.
+- Enter the amount on the correct side (debit or credit) of the relevant ledger account.
+- Reference the source book and date for each entry in the ledger.
+- Repeat for all transactions, ensuring every item is posted to its respective account.
+
+Posting helps in:
+- Classifying transactions by account type (e.g., cash, sales, rent, etc.).
+- Preparing the trial balance and final accounts.
+- Detecting errors and omissions in recording.
+
+### Example Tables for Each Book
+
+#### Cash Book (Main & Bank Columns)
+| Dr. | Receipts      | L.F. | Cash ₹ | Bank ₹ | Cr. | Payments      | L.F. | Cash ₹ | Bank ₹ |
+|------|--------------|------|--------|--------|------|--------------|------|--------|--------|
+| Date | Particulars  |      |        |        | Date | Particulars  |      |        |        |
+|------|--------------|------|--------|--------|------|--------------|------|--------|--------|
+|2017 Sept. 01| Balance b/d |      | 15,000 | 42,000 |2017 Sept. 04| Purchases     |      |12,000 |        |
+|2017 Sept. 08| Sales       |      | 6,000  |        |2017 Sept. 13| Machine       |      | 5,500 |        |
+|2017 Sept. 16| Sales       |  C   |        | 4,500  |2017 Sept. 17| Purchase      |      |17,400 |        |
+|2017 Sept. 27| Bank        |      |10,000  |        |2017 Sept. 20| Stationery    |      | 1,100 |        |
+|             |             |      |        |        |2017 Sept. 24| Rohit         |  C   |10,000 |        |
+|             |             |      |        |        |2017 Sept. 27| Cash          |      | 2,500 |        |
+|             |             |      |        |        |2017 Sept. 30| Rent          |      |        |        |
+|             |             |      |        |        |2017 Sept. 30| Salary        |      | 3,500 |        |
+|             |             |      |        |        |2017 Sept. 30| Balance c/d   |      |10,100 |13,900  |
+|------|--------------|------|--------|--------|------|--------------|------|--------|--------|
+|Oct. 01| Balance b/d |      |10,100  |13,900  |      |              |      |        |        |
+
+#### Cash Book (Single Column Format)
+| Dr. | Receipts      | L.F. | Amount ₹ | Cr. | Payments      | L.F. | Amount ₹ |
+|------|--------------|------|----------|------|--------------|------|----------|
+| Date | Particulars  |      |          | Date | Particulars  |      |          |
+|------|--------------|------|----------|------|--------------|------|----------|
+|2017 Nov. 01| Balance b/d |      | 30,000   |2017 Nov. 08| Insurance     |      | 6,000   |
+|2017 Nov. 04| Gurmeet     |      | 12,000   |2017 Nov. 13| Furniture     |      |13,800   |
+|2017 Nov. 16| Sales       |      | 28,000   |2017 Nov. 17| Purchases     |      |17,400   |
+|2017 Nov. 27| Sales       |      | 18,200   |2017 Nov. 20| Stationery    |      | 1,100   |
+|            |             |      |          |2017 Nov. 24| Rukmani       |      |12,500   |
+|            |             |      |          |2017 Nov. 30| Rent          |      | 2,200   |
+|            |             |      |          |2017 Nov. 30| Salary        |      | 3,500   |
+|            |             |      |          |2017 Nov. 30| Bank          |      | 2,800   |
+|            |             |      |          |2017 Nov. 30| Balance c/d   |      |23,400   |
+|------|--------------|------|----------|------|--------------|------|----------|
+|Dec. 01| Balance b/d |      | 23,400   |      |              |      |          |
+
+#### Petty Cash Book
+| Date       | Particulars           | Amount (₹) |
+|------------|----------------------|------------|
+| 2023-05-25 | Purchased stationery  | 500        |
+| 2023-06-01 | Paid courier charges  | 300        |
+| 2023-07-15 | Paid refreshments     | 200        |
+| ...existing code...
+
+#### Purchases Book
+| Date       | Supplier    | Item         | Amount (₹) |
+|------------|------------|--------------|------------|
+| 2023-04-20 | PackPro     | Packaging    | 8,000      |
+| 2023-06-20 | ColorCo     | Paint        | 3,000      |
+| 2023-08-15 | PolyWorld   | Plastic      | 6,000      |
+le| ...existing code...
+
+#### Purchases Return Book
+| Date       | Supplier    | Item         | Amount (₹) |
+|------------|------------|--------------|------------|
+| 2023-04-25 | PackPro     | Packaging    | 1,000      |
+| 2023-06-25 | ColorCo     | Paint        | 500        |
+| 2023-08-20 | PolyWorld   | Plastic      | 1,000      |
+| ...existing code...
+
+#### Sales Book
+| Date       | Customer    | Item         | Amount (₹) |
+|------------|------------|--------------|------------|
+| 2023-05-05 | ToyMart     | Dolls        | 10,000     |
+| 2023-07-01 | KidsStore   | Toy Cars     | 12,000     |
+| 2023-09-05 | PlayZone    | Puzzles      | 11,000     |
+| ...existing code...
+
+#### Sales Return Book
+| Date       | Customer    | Item         | Amount (₹) |
+|------------|------------|--------------|------------|
+| 2023-05-10 | ToyMart     | Dolls        | 2,000      |
+| 2023-07-05 | KidsStore   | Toy Cars     | 1,500      |
+| 2023-09-10 | PlayZone    | Puzzles      | 1,200      |
+| ...existing code...
+
+#### Journal Proper
+| Date       | Particulars                        | Debit (₹) | Credit (₹) |
+|------------|------------------------------------|-----------|------------|
+| 2023-04-01 | Capital introduced by Neil         | 1,00,000  | 1,00,000   |
+| 2023-04-05 | Capital introduced by Hamsa        | 1,00,000  | 1,00,000   |
+| 2024-01-08 | Received loan from bank            | 50,000    | 50,000     |
+| 2024-01-22 | Written off bad debts (ToyMart)    | 2,000     | 2,000      |
+| ...existing code...
+
+These tables show how transactions are posted from the books of original entry to the respective books. Each entry is classified and recorded according to its nature, making it easier to summarize and analyze financial data.
+
+## 6. Balancing
 
 Balancing in accounting ensures that the totals on both sides of a book or account are equal, and helps determine the closing balance for the next period. There are two main types:
 
@@ -120,19 +220,19 @@ Ledger accounts are maintained for each item (e.g., sales, purchases, rent, sala
 
 Both types of balancing are essential for accurate financial reporting and for ensuring that all transactions have been properly recorded and accounted for.
 
-## 6. App Workflow
+## 7. App Workflow
 - User selects a transaction and chooses the correct book.
 - App guides step-by-step filling of each book.
 - Mistakes are identified with explanations and alternate suggestions.
 - Follows the exact order of steps as in the textbook.
 - User corrects entries and sees the final output (balanced books and accounts).
 
-## 7. Step-by-Step Flow (as per book)
+## 8. Step-by-Step Flow (as per book)
 - Start with recording transactions in the correct book.
 - Post entries to the ledger.
 - Balance the books.
 - Review and correct mistakes.
 
-## 8. Final Output
+## 9. Final Output
 - All books and accounts are correctly filled and balanced.
 - User understands the flow and logic of business accounting.
