@@ -209,9 +209,49 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 ---
 
 ## 7. Books of Original Entry
-- **Journal Proper:** For transactions not recorded elsewhere.
-- **Cash Book:** All cash and bank transactions.
-- **Day Books:** Purchases book, sales book, purchase returns book, sales returns book, bills receivable/payable books.
+
+**Books of Original Entry** are the first place where business transactions are recorded before they are posted to the ledger. They provide a chronological record and evidence of all financial activities.
+
+### 7. Books of Original Entry
+
+#### 1. Journal Proper
+- **Definition:** The main book for recording all transactions that do not fit into other specialized books. It is used for opening entries, closing entries, adjustment entries, and other non-routine transactions.
+- **Example:** 
+  - Recording depreciation at year-end:
+    - Debit: Depreciation Expense ₹1,000
+    - Credit: Accumulated Depreciation ₹1,000
+
+#### 2. Cash Book
+- **Definition:** A book used to record all cash and bank transactions. It acts as both a journal and a ledger for cash and bank accounts.
+- **Example:** 
+  - Received cash from sales ₹5,000:
+    - Debit: Cash Account ₹5,000
+    - Credit: Sales Account ₹5,000
+  - Paid rent by cheque ₹2,000:
+    - Debit: Rent Account ₹2,000
+    - Credit: Bank Account ₹2,000
+
+#### 3. Day Books (Subsidiary Books)
+- **Definition:** Specialized books for recording specific types of transactions. They help in managing large volumes of similar entries.
+- **Types and Examples:**
+  - **Purchases Book:** Records all credit purchases of goods.
+    - Example: Bought goods on credit from Ram & Co. ₹3,000.
+      - Entry in Purchases Book: Ram & Co. ₹3,000
+  - **Sales Book:** Records all credit sales of goods.
+    - Example: Sold goods on credit to Sita Traders ₹2,500.
+      - Entry in Sales Book: Sita Traders ₹2,500
+  - **Purchase Returns Book:** Records goods returned to suppliers.
+    - Example: Returned goods to Ram & Co. ₹500.
+      - Entry in Purchase Returns Book: Ram & Co. ₹500
+  - **Sales Returns Book:** Records goods returned by customers.
+    - Example: Goods returned by Sita Traders ₹300.
+      - Entry in Sales Returns Book: Sita Traders ₹300
+  - **Bills Receivable Book:** Records all bills received from customers.
+    - Example: Received a bill from Sita Traders for ₹1,000.
+      - Entry in Bills Receivable Book: Sita Traders ₹1,000
+  - **Bills Payable Book:** Records all bills accepted and payable to suppliers.
+    - Example: Accepted a bill from Ram & Co. for ₹800.
+      - Entry in Bills Payable Book: Ram & Co. ₹800
 
 ---
 
