@@ -184,16 +184,16 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
     - Debit Cash Account ₹400 (asset increases)
     - Credit Sales Account ₹400 (revenue increases)
 
-### T-Account Table Example
+### T-Account Table Example (with Explanation)
 
-| Account Title      | Debit (Left) | Credit (Right) |
-|--------------------|--------------|----------------|
-| Cash               | +2,000       | -500           |
-| Furniture          | +500         |                |
-| Bank Loan          |              | +1,000         |
-| Drawings           | +500         |                |
-| Rent               | +300         |                |
-| Sales              |              | +400           |
+| Account Title      | Debit (Left) | Credit (Right) | Explanation |
+|--------------------|--------------|----------------|-------------|
+| Cash               | +2,000       | -500           | Debit: Cash increases when owner invests or sales occur; Credit: Cash decreases when paid out (withdrawal, expenses) |
+| Furniture          | +500         |                | Debit: Buying furniture increases asset; Credit: Not applicable in this example |
+| Bank Loan          |              | +1,000         | Credit: Taking a loan increases liability; Debit: Not applicable in this example |
+| Drawings           | +500         |                | Debit: Owner withdraws money, decreases capital; Credit: Not applicable in this example |
+| Rent               | +300         |                | Debit: Paying rent increases expense; Credit: Not applicable in this example |
+| Sales              |              | +400           | Credit: Sales increase revenue; Debit: Not applicable in this example |
 
 ---
 
