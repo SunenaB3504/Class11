@@ -258,8 +258,24 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 ## 8. Journalising
 - **Journal:** Chronological record of transactions.
 - **Format:** Date, particulars, ledger folio, debit amount, credit amount.
-- **Simple Entry:** Two accounts involved.
-- **Compound Entry:** More than two accounts involved.
+
+### Simple Entry Examples
+| Date       | Particulars         | Account Type | Debit (Dr.) | Credit (Cr.) | Explanation |
+|------------|---------------------|--------------|-------------|-------------|-------------|
+| 2025-07-01 | Cash Account        | Asset        | ₹5,000      |             | Cash increases (asset), so debit |
+|            | Sales Account       | Revenue      |             | ₹5,000      | Sales increases (revenue), so credit |
+| 2025-07-02 | Rent Account        | Expense      | ₹2,000      |             | Rent increases (expense), so debit |
+|            | Cash Account        | Asset        |             | ₹2,000      | Cash decreases (asset), so credit |
+
+### Compound Entry Examples
+| Date       | Particulars         | Account Type | Debit (Dr.) | Credit (Cr.) | Explanation |
+|------------|---------------------|--------------|-------------|-------------|-------------|
+| 2025-07-03 | Furniture Account   | Asset        | ₹3,000      |             | Furniture increases (asset), so debit |
+|            | Stationery Account  | Asset        | ₹1,000      |             | Stationery increases (asset), so debit |
+|            | Cash Account        | Asset        |             | ₹4,000      | Cash decreases (asset), so credit |
+| 2025-07-04 | Salaries Account    | Expense      | ₹2,500      |             | Salaries increase (expense), so debit |
+|            | Wages Account       | Expense      | ₹1,500      |             | Wages increase (expense), so debit |
+|            | Cash Account        | Asset        |             | ₹4,000      | Cash decreases (asset), so credit |
 
 ---
 
