@@ -321,6 +321,14 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 - **Permanent Accounts:** Assets, liabilities, capital (carried forward).
 - **Temporary Accounts:** Revenues, expenses, gains, losses (closed at period end).
 
+**Permanent Accounts (Carried Forward):**
+- These are accounts whose balances are carried forward to the next accounting period. They include assets, liabilities, and capital accounts. The balances remain open and continue into future periods.
+- **Example:** The balance in the Cash Account at the end of the year is carried forward and becomes the opening balance for the next year.
+
+**Temporary Accounts (Ending at the Period):**
+- These are accounts that are closed at the end of the accounting period. They include revenues, expenses, gains, and losses. Their balances are transferred to the capital account (or profit and loss account) and do not carry forward.
+- **Example:** The balance in the Sales Account is transferred to the Profit & Loss Account at year-end, and the account starts with zero balance in the next period.
+
 ---
 
 ## 11. Practice: Posting Example
