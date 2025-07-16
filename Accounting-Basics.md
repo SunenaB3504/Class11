@@ -128,10 +128,72 @@ This equation always stays balanced after every transaction. It is also called t
 
 ---
 
-## 5. Using Debit and Credit
-- **Debit (Dr.):** Left side of account; increases assets/expenses, decreases liabilities/capital/revenue.
-- **Credit (Cr.):** Right side of account; increases liabilities/capital/revenue, decreases assets/expenses.
-- **T-Account Format:** Used to record increases and decreases.
+## 5. Using Debit and Credit (Definitions & Examples)
+
+### Definition (from the book)
+In accounting, every transaction affects at least two accounts. The terms 'debit' and 'credit' indicate whether the transaction is recorded on the left or right side of the account. The total amount debited must always equal the total amount credited.
+
+- **Debit (Dr.):** The left side of an account. Used to record increases in assets and expenses, and decreases in liabilities, capital, and revenue.
+- **Credit (Cr.):** The right side of an account. Used to record increases in liabilities, capital, and revenue, and decreases in assets and expenses.
+
+### Explanation of Each Item
+
+#### Asset
+- **Debit:** Increase in asset (e.g., buying furniture)
+- **Credit:** Decrease in asset (e.g., paying cash)
+- **Example:**
+  - Bought furniture for ₹500 cash:
+    - Debit Furniture Account ₹500 (asset increases)
+    - Credit Cash Account ₹500 (asset decreases)
+
+#### Liability
+- **Debit:** Decrease in liability (e.g., paying off a loan)
+- **Credit:** Increase in liability (e.g., borrowing money)
+- **Example:**
+  - Borrowed ₹1,000 from bank:
+    - Debit Cash Account ₹1,000 (asset increases)
+    - Credit Bank Loan Account ₹1,000 (liability increases)
+  - Paid back ₹500 of loan:
+    - Debit Bank Loan Account ₹500 (liability decreases)
+    - Credit Cash Account ₹500 (asset decreases)
+
+#### Capital
+- **Debit:** Decrease in capital (e.g., owner withdraws money)
+- **Credit:** Increase in capital (e.g., owner invests money)
+- **Example:**
+  - Owner invests ₹2,000:
+    - Debit Cash Account ₹2,000 (asset increases)
+    - Credit Capital Account ₹2,000 (capital increases)
+  - Owner withdraws ₹500:
+    - Debit Drawings Account ₹500 (capital decreases)
+    - Credit Cash Account ₹500 (asset decreases)
+
+#### Expense/Loss
+- **Debit:** Increase in expense/loss (e.g., paying rent)
+- **Credit:** Decrease in expense/loss
+- **Example:**
+  - Paid rent ₹300:
+    - Debit Rent Account ₹300 (expense increases)
+    - Credit Cash Account ₹300 (asset decreases)
+
+#### Revenue/Gain
+- **Debit:** Decrease in revenue/gain
+- **Credit:** Increase in revenue/gain (e.g., earning sales income)
+- **Example:**
+  - Sold goods for ₹400 cash:
+    - Debit Cash Account ₹400 (asset increases)
+    - Credit Sales Account ₹400 (revenue increases)
+
+### T-Account Table Example
+
+| Account Title      | Debit (Left) | Credit (Right) |
+|--------------------|--------------|----------------|
+| Cash               | +2,000       | -500           |
+| Furniture          | +500         |                |
+| Bank Loan          |              | +1,000         |
+| Drawings           | +500         |                |
+| Rent               | +300         |                |
+| Sales              |              | +400           |
 
 ---
 
