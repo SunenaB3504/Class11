@@ -284,6 +284,37 @@ In accounting, every transaction affects at least two accounts. The terms 'debit
 - **Ledger:** Principal book with all accounts.
 - **Format:** Separate page for each account, code numbers for identification.
 
+### Posting from Journal to Ledger (Diagram & Tables)
+
+**Diagram:**
+```
+[Journal Entry]
+      |
+      v
+[Ledger Account 1]   [Ledger Account 2]
+      |                    |
+      v                    v
+[Balance Calculation]   [Balance Calculation]
+```
+
+**Example Journal Entry:**
+| Date       | Particulars         | Debit (Dr.) | Credit (Cr.) |
+|------------|---------------------|-------------|--------------|
+| 2025-07-01 | Cash Account        | ₹5,000      |              |
+|            | Sales Account       |             | ₹5,000       |
+
+**Posting to Ledger Accounts:**
+
+**Cash Account (Ledger)**
+| Date       | Particulars | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|-------------|-------------|--------------|---------|
+| 2025-07-01 | To Sales    | ₹5,000      |              | ₹5,000  |
+
+**Sales Account (Ledger)**
+| Date       | Particulars | Debit (Dr.) | Credit (Cr.) | Balance |
+|------------|-------------|-------------|--------------|---------|
+| 2025-07-01 | By Cash     |             | ₹5,000       | ₹5,000  |
+
 ---
 
 ## 10. Classification of Ledger Accounts
