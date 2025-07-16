@@ -149,12 +149,33 @@ Posting helps in:
 |Dec. 01| Balance b/d |      | 23,400   |      |              |      |          |
 
 #### Petty Cash Book
-| Date       | Particulars           | Amount (₹) |
-|------------|----------------------|------------|
-| 2023-05-25 | Purchased stationery  | 500        |
-| 2023-06-01 | Paid courier charges  | 300        |
-| 2023-07-15 | Paid refreshments     | 200        |
-| ...existing code...
+| Amount Received (₹) | Date       | Particulars                        | Voucher No. | Amount Paid (₹) | Postage | Telephone & Telegram | Conveyance | Stationery | Misc. |
+|---------------------|------------|------------------------------------|-------------|----------------|---------|---------------------|------------|------------|-------|
+| 2,000               | 2017-05-01 | Cash received                      |             |                |         |                     |            |            |       |
+|                     | 2017-05-02 | Auto fare                          |             | 55             |         |                     | 55         |            |       |
+|                     | 2017-05-03 | Courier services                   |             | 40             |         | 40                  |            |            |       |
+|                     | 2017-05-04 | Postal stamps                      |             | 105            | 105     |                     |            |            |       |
+|                     | 2017-05-05 | Erasers/Sharpeners/Pencils         |             | 225            |         |                     |            | 225        |       |
+|                     | 2017-05-06 | Speed post charges                 |             | 98             | 98      |                     |            |            |       |
+|                     | 2017-05-08 | Taxi fare (105 + 90)               |             | 195            |         |                     | 195        |            |       |
+|                     | 2017-05-08 | Refreshments                       |             | 60             |         |                     |            |            | 60    |
+|                     | 2017-05-10 | Auto fare                          |             | 85             |         |                     |            |            | 85    |
+|                     | 2017-05-12 | Registered postal charges          |             | 42             |         |                     |            |            | 42    |
+|                     | 2017-05-13 | Telegram                           |             | 34             |         | 34                  |            |            |       |
+|                     | 2017-05-14 | Cartage                            |             | 25             |         |                     |            |            | 25    |
+|                     | 2017-05-16 | Computer stationery                 |             | 165            |         |                     |            | 165        |       |
+|                     | 2017-05-19 | Bus fare                           |             | 24             |         |                     | 24         |            |       |
+|                     | 2017-05-19 | STD call charges                    |             | 87             |         | 87                  |            |            |       |
+|                     | 2017-05-20 | Office sanitation (36+24)           |             | 60             |         |                     |            |            | 60    |
+|                     | 2017-05-22 | Refreshment                         |             | 45             |         |                     |            |            | 45    |
+|                     | 2017-05-23 | Photo stating charges                |             | 47             |         |                     |            |            | 47    |
+|                     | 2017-05-28 | Courier services                    |             | 40             |         | 40                  |            |            |       |
+|                     | 2017-05-29 | Unloading charges                   |             | 15             |         |                     |            |            | 15    |
+|                     | 2017-05-30 | Bus fare                            |             | 40             |         |                     |            |            | 40    |
+|                     |            | **Total**                           |             | **1,487**      | **325** | **121**             | **349**    | **390**    | **302**|
+| 2,000               | 2017-05-31 | Balance c/d                         |             | 513            |         |                     |            |            |       |
+| 513                 | 2017-06-01 | Balance b/d                         |             |                |         |                     |            |            |       |
+| 1,487               | 2017-06-01 | Cash received                       |             |                |         |                     |            |            |       |
 
 #### Purchases Book
 | Date       | Supplier    | Item         | Amount (₹) |
